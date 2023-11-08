@@ -1,0 +1,763 @@
+,Unnamed: 0,condition,drugName_x,drugName_y
+0,0,0</span> users found this comment helpful.,Aricept,Atripla
+1,1,10</span> users found this comment helpful.,Effexor XR,Roxicet
+2,2,11</span> users found this comment helpful.,Methadone Diskets,Finacea
+3,3,12</span> users found this comment helpful.,Pepcid AC Chewable Tablets,Microgestin Fe 1 / 20
+4,4,13</span> users found this comment helpful.,Darvocet-N 50,Elmiron
+5,5,142</span> users found this comment helpful.,Alli,Adderall
+6,6,14</span> users found this comment helpful.,Viibryd,Protonix
+7,7,15</span> users found this comment helpful.,Fiorinal with Codeine,Aviane
+8,8,16</span> users found this comment helpful.,Metadate CD,Luvox
+9,9,17</span> users found this comment helpful.,Adipex-P,Remeron
+10,10,18</span> users found this comment helpful.,Xolair,Nasonex
+11,11,19</span> users found this comment helpful.,Necon 1 / 35,Zoloft
+12,12,1</span> users found this comment helpful.,Safyral,ParaGard
+13,13,20</span> users found this comment helpful.,Ortho Tri-Cyclen Lo,Restoril
+14,14,21</span> users found this comment helpful.,Librium,Opana
+15,15,22</span> users found this comment helpful.,Provigil,Anoro Ellipta
+16,16,23</span> users found this comment helpful.,Amitiza,Coenzyme Q10
+17,17,24</span> users found this comment helpful.,Contrave,Seroquel
+18,18,25</span> users found this comment helpful.,Arthrotec,Vivarin
+19,19,27</span> users found this comment helpful.,Premarin,Viagra
+20,20,28</span> users found this comment helpful.,Silenor,Marinol
+21,21,29</span> users found this comment helpful.,Tenex,Remeron SolTab
+22,22,2</span> users found this comment helpful.,Zutripro,TriNessa
+23,23,31</span> users found this comment helpful.,Xanax,Flexeril
+24,24,32</span> users found this comment helpful.,Mucinex,Deplin
+25,25,33</span> users found this comment helpful.,Zanaflex,Lexapro
+26,26,34</span> users found this comment helpful.,Viagra,Seroquel
+27,27,35</span> users found this comment helpful.,Remeron,Namenda
+28,28,36</span> users found this comment helpful.,Klor-Con,Namenda
+29,29,39</span> users found this comment helpful.,Levoxyl,Viagra
+30,30,3</span> users found this comment helpful.,Lexapro,Tri-Linyah
+31,31,41</span> users found this comment helpful.,Belviq,Exalgo
+32,32,42</span> users found this comment helpful.,Solu-Medrol,Zoloft
+33,33,43</span> users found this comment helpful.,Lo / Ovral-28,Pristiq
+34,34,44</span> users found this comment helpful.,Ultram ODT,Mysoline
+35,35,45</span> users found this comment helpful.,Depo-Provera,Vitamin B12
+36,36,46</span> users found this comment helpful.,Vagifem,Uricalm
+37,37,4</span> users found this comment helpful.,Gianvi,Tri-Sprintec
+38,38,51</span> users found this comment helpful.,Cialis,Alli
+39,39,55</span> users found this comment helpful.,Mobic,Arthrotec
+40,40,5</span> users found this comment helpful.,Viagra,Pataday
+41,41,6</span> users found this comment helpful.,Adipex-P,Saphris
+42,42,74</span> users found this comment helpful.,Robaxin,Alli
+43,43,75</span> users found this comment helpful.,Wellbutrin,Remeron
+44,44,7</span> users found this comment helpful.,Topamax,Effexor
+45,45,85</span> users found this comment helpful.,Neurontin,Mobic
+46,46,8</span> users found this comment helpful.,Nicotrol Inhaler,Dilaudid
+47,47,99</span> users found this comment helpful.,Alli,Mobic
+48,48,9</span> users found this comment helpful.,Zoloft,Pristiq
+49,49,ADHD,Wellbutrin SR,Provigil
+50,50,AIDS Related Wasting,Dronabinol,Marinol
+51,51,Abdominal Distension,Bethanechol,Urecholine
+52,52,Abnormal Uterine Bleeding,Megace,Provera
+53,53,Abortion,Misoprostol,Cytotec
+54,54,Acetaminophen Overdose,Acetylcysteine,Mucomyst-10
+55,55,Acne,Aldactone,Phillips' Milk of Magnesia
+56,56,Actinic Keratosis,Efudex,Carac
+57,57,Acute Coronary Syndrome,Clopidogrel,Plavix
+58,58,Acute Lymphoblastic Leukemia,Imatinib,Gleevec
+59,59,Acute Nonlymphocytic Leukemia,Accutane,Isotretinoin
+60,60,Acute Promyelocytic Leukemia,Arsenic trioxide,Vesanoid
+61,61,Addison's Disease,Florinef Acetate,Fludrocortisone
+62,62,Adrenocortical Insufficiency,Cortef,Hydrocortisone
+63,63,Adult Human Growth Hormone Deficiency,Norditropin,Humatrope
+64,64,Agitated State,Aripiprazole,Abilify
+65,65,Agitation,Zyprexa Intramuscular,Olanzapine
+66,66,Alcohol Dependence,Revia,Antabuse
+67,67,Alcohol Withdrawal,Neurontin,Gabapentin
+68,68,Allergic Reactions,Deltasone,Prednisone
+69,69,Allergic Rhinitis,Singulair,Astelin
+70,70,Allergic Urticaria,Atarax,Vistaril
+71,71,Allergies,Hyzine,Vistaril
+72,72,Alopecia,Rogaine,Aldactone
+73,73,Alpha-1 Proteinase Inhibitor Deficiency,Prolastin-C,Alpha 1-proteinase inhibitor
+74,74,Alzheimer's Disease,Aricept,Donepezil
+75,75,Amebiasis,Tinidazole,Metronidazole
+76,76,Amenorrhea,Progesterone,Prometrium
+77,77,Anal Fissure and Fistula,Rectiv,Nitroglycerin
+78,78,Anal Itching,Clobetasol,Dibucaine
+79,79,Anaphylaxis,EpiPen,Epinephrine
+80,80,Anaplastic Astrocytoma,Temodar,Temozolomide
+81,81,Anaplastic Oligodendroglioma,Temodar,Temozolomide
+82,82,Androgenetic Alopecia,Propecia,Finasteride
+83,83,Anemia,Integra F,Integra
+84,84,Anemia Associated with Chronic Renal Failure,Procrit,Epoetin alfa
+85,85,"Anemia, Chemotherapy Induced",Aranesp,Darbepoetin alfa
+86,86,"Anemia, Sickle Cell",Hydrea,Hydroxyurea
+87,87,Anesthesia,Ketalar,Diprivan
+88,88,Anesthetic Adjunct,Dilaudid-HP,Hydromorphone
+89,89,Angina,Nitrolingual Pumpspray,Nitroglycerin
+90,90,Angina Pectoris Prophylaxis,Imdur,Isosorbide mononitrate
+91,91,Ankylosing Spondylitis,Adalimumab,Humira
+92,92,Anorexia,Cyproheptadine,Marinol
+93,93,Anorexia/Feeding Problems,Fluvoxamine,Luvox CR
+94,94,Anthrax,Cipro,Ciprofloxacin
+95,95,Antiphospholipid Syndrome,Coumadin,Warfarin
+96,96,Anxiety,Tenormin,Neurontin
+97,97,Anxiety and Stress,Elavil,Prozac
+98,98,Aphthous Ulce,Triamcinolone,Lysine
+99,99,Aplastic Anemia,Eltrombopag,Promacta
+100,100,Arrhythmia,Pacerone,Tikosyn
+101,101,Ascariasis,Albendazole,Mebendazole
+102,102,Asperger Syndrome,Risperdal,Zyprexa Zydis
+103,103,"Aspergillosis, Aspergilloma",Itraconazole,Sporanox
+104,104,Aspiration Pneumonia,Clindamycin,Amoxicillin / clavulanate
+105,105,Asthma,Deltasone,Singulair
+106,106,"Asthma, Maintenance",Uniphyl,Theo-24
+107,107,"Asthma, acute",Medrol,Proventil HFA
+108,108,Atherosclerosis,Rosuvastatin,Crestor
+109,109,Atopic Dermatitis,Medrol Dosepak,Lidex
+110,110,Atrial Fibrillation,Toprol-XL,Cardizem
+111,111,Atrial Flutte,Dronedarone,Multaq
+112,112,Atrophic Urethritis,Vagifem,Estrace Vaginal Cream
+113,113,Atrophic Vaginitis,Estrace Vaginal Cream,Femring
+114,114,Auditory Processing Disorde,Dexmethylphenidate,Focalin XR
+115,115,Autism,Effexor,Risperdal
+116,116,Autoimmune Hepatitis,CellCept,Imuran
+117,117,Avian Influenza,Oseltamivir,Tamiflu
+118,118,B12 Nutritional Deficiency,Vitamin B12,Cyanocobalamin
+119,119,Babesiosis,Atovaquone,Mepron
+120,120,Back Pain,Ultram ODT,Ultram
+121,121,Bacteremia,Linezolid,Zyvox
+122,122,Bacterial Endocarditis Prevention,Amoxicillin,Moxatag
+123,123,Bacterial Infection,Vibramycin,Keflex
+124,124,Bacterial Skin Infection,Bactrim,Septra
+125,125,Bacterial Vaginitis,MetroGel-Vaginal,Vandazole
+126,126,Barrett's Esophagus,Protonix,Prilosec
+127,127,Basal Cell Carcinoma,Carac,Efudex
+128,128,Behcet's Disease,Remicade,Enbrel
+129,129,Benign Essential Trem,Inderal,Propranolol
+130,130,Benign Prostatic Hyperplasia,Cialis,Flomax
+131,131,Benzodiazepine Withdrawal,Catapres,Clonidine
+132,132,Biliary Cirrhosis,Urso,Urso Forte
+133,133,Binge Eating Disorde,Vyvanse,Lisdexamfetamine
+134,134,Bipolar Disorde,Neurontin,Topamax
+135,135,Birth Control,Low-Ogestrel-21,Lybrel
+136,136,Bladder Infection,Keflex,Amoxil
+137,137,Bleeding Disorde,Cyklokapron,Tranexamic acid
+138,138,Blepharitis,Neo-Poly-Dex,Dexamethasone / neomycin / polymyxin b
+139,139,Body Dysmorphic Disorde,Fluoxetine,Prozac
+140,140,Body Imaging,Iohexol,Omnipaque 350
+141,141,Bone infection,Cleocin HCl,Cephalexin
+142,142,Borderline Personality Disorde,L-methylfolate,Deplin
+143,143,Bowel Preparation,MiraLax,TriLyte
+144,144,Brain Tum,Afinitor,Everolimus
+145,145,Breakthrough Pain,Duragesic,Lazanda
+146,146,Breast Cance,Femara,Arimidex
+147,147,"Breast Cancer, Adjuvant",Femara,Letrozole
+148,148,"Breast Cancer, Metastatic",Femara,Letrozole
+149,149,"Breast Cancer, Palliative",Zoladex,Goserelin
+150,150,"Breast Cancer, Prevention",Evista,Raloxifene
+151,151,Bronchiectasis,Doryx,Doxycycline
+152,152,Bronchitis,Mucinex,Guaifenesin
+153,153,Bronchospasm Prophylaxis,Montelukast,Singulair
+154,154,Bulimia,Prozac,Fluoxetine
+155,155,Bullous Pemphigoid,Prednisone,Prednisolone
+156,156,Burning Mouth Syndrome,Elavil,Klonopin
+157,157,"Burns, External",Silvadene,Lidocaine
+158,158,Bursitis,Naproxen,Prednisone
+159,159,CMV Prophylaxis,Valacyclovir,Valtrex
+160,160,CNS Magnetic Resonance Imaging,Gadopentetate dimeglumine,Magnevist
+161,161,COPD,Symbicort,Daliresp
+162,162,"COPD, Acute",Ventolin,Xopenex
+163,163,"COPD, Maintenance",Spiriva,Tiotropium
+164,164,Cachexia,Megace,Megestrol
+165,165,Campylobacter Gastroenteritis,Ofloxacin,Floxin
+166,166,Cance,Chaparral,Adriamycin
+167,167,Candida Urinary Tract Infection,Diflucan,Fluconazole
+168,168,Candidemia,Itraconazole,Sporanox
+169,169,Carcinoid Tum,Octreotide,Sandostatin
+170,170,Cardiovascular Risk Reduction,Ramipril,Alirocumab
+171,171,Cataplexy,Xyrem,Sodium oxybate
+172,172,Cerebral Spasticity,Baclofen,Trihexyphenidyl
+173,173,Cervical Dystonia,OnabotulinumtoxinA,Botox
+174,174,Chlamydia Infection,Doxy 100,Zithromax
+175,175,Cholera,Cipro,Ciprofloxacin
+176,176,Chronic Eosinophilic Leukemia,Gleevec,Imatinib
+177,177,Chronic Fatigue Syndrome,Vyvanse,Nuvigil
+178,178,Chronic Idiopathic Constipation,Trulance,Plecanatide
+179,179,Chronic Inflammatory Demyelinating Polyradiculoneuropathy,Gammagard,Immune globulin intravenous and subcutaneous
+180,180,Chronic Lymphocytic Leukemia,Leukeran,Rituxan
+181,181,Chronic Myelogenous Leukemia,Gleevec,Imatinib
+182,182,Chronic Myofascial Pain,Clonazepam,Amitriptyline
+183,183,Chronic Pain,Methadose,Oxyfast
+184,184,Chronic Pancreatitis,Creon,Pancrelipase
+185,185,Chronic Spasticity,Gablofen,Baclofen
+186,186,Clostridial Infection,Vancomycin,Dificid
+187,187,Cluster Headaches,Zanaflex,Cyproheptadine
+188,188,Coccidioidomycosis,Itraconazole,Sporanox
+189,189,Cold Sores,Retre-Gel,Famvir
+190,190,Cold Symptoms,Chlorpheniramine,Coricidin HBP Cold & Flu
+191,191,Colorectal Cance,Xeloda,Bevacizumab
+192,192,Computed Tomography,Readi-Cat,Readi-Cat 2
+193,193,Condylomata Acuminata,Aldara,Condylox
+194,194,Conjunctivitis,Zymar,Gatifloxacin
+195,195,"Conjunctivitis, Allergic",Zaditor,Ketotifen
+196,196,"Conjunctivitis, Bacterial",Polytrim,Maxitrol
+197,197,Constipation,Colace,Magnesium oxide
+198,198,"Constipation, Acute",MiraLax,Polyethylene glycol 3350
+199,199,"Constipation, Chronic",Constulose,Lactulose
+200,200,"Constipation, Drug Induced",Relistor,Methylnaltrexone
+201,201,Corneal Refractive Surgery,Ketorolac,Acular LS
+202,202,Coronary Artery Disease,Lisinopril,Amlodipine
+203,203,Costochondritis,Naprosyn,Aleve
+204,204,Cough,Amitriptyline,Vicodin
+205,205,Cough and Nasal Congestion,Mucinex D,Guaifenesin / pseudoephedrine
+206,206,Crohn's Disease,Questran,Prevalite
+207,207,"Crohn's Disease, Acute",Entocort EC,Budesonide
+208,208,"Crohn's Disease, Maintenance",Humira,Adalimumab
+209,209,Croup,Decadron,Dexamethasone
+210,210,Cutaneous Candidiasis,Clotrimazole,Mycolog II
+211,211,Cutaneous T-cell Lymphoma,Bexarotene,Targretin
+212,212,Cyclic Vomiting Syndrome,Amitriptyline,Pamelor
+213,213,Cyclitis,Lotemax,Loteprednol
+214,214,Cyclothymic Disorde,Lithium,Lamotrigine
+215,215,Cystic Fibrosis,Pancrelipase,Creon
+216,216,Dandruff,Nizoral A-D,Ketoconazole
+217,217,Deep Neck Infection,Piperacillin / tazobactam,Zosyn
+218,218,Deep Vein Thrombosis,Xarelto,Rivaroxaban
+219,219,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,Xarelto,Coumadin
+220,220,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,Coumadin,Warfarin
+221,221,"Deep Vein Thrombosis, First Event",Coumadin,Warfarin
+222,222,"Deep Vein Thrombosis, Prophylaxis",Apixaban,Eliquis
+223,223,"Deep Vein Thrombosis, Recurrent Event",Coumadin,Warfarin
+224,224,Dementia,Haldol,Haloperidol
+225,225,Dental Abscess,Amoxil,Flagyl
+226,226,Depression,Methylin ER,Desyrel
+227,227,Dercum's Disease,Fentanyl,Pregabalin
+228,228,Dermatitis,Lidex,Kenalog
+229,229,Dermatologic Lesion,Zinc oxide,Xenaderm
+230,230,Dermatological Disorders,Luxiq,Carmol 20
+231,231,Dermatomyositis,Hydroxychloroquine,Plaquenil
+232,232,Dermatophytosis,Gris-PEG,Itraconazole
+233,233,Diabetes Insipidus,DDAVP Nasal,Hydrochlorothiazide
+234,234,"Diabetes, Type 1","Insulin inhalation, rapid acting",Afrezza
+235,235,"Diabetes, Type 2",Chromium picolinate,Glucophage XR
+236,236,Diabetic Kidney Disease,Cozaar,Losartan
+237,237,Diabetic Macular Edema,Aflibercept,Eylea
+238,238,Diabetic Peripheral Neuropathy,Neurontin,Topamax
+239,239,Diagnosis and Investigation,Lymphoseek,Arginine
+240,240,Diaper Rash,Menthol / zinc oxide,Calmoseptine
+241,241,Diarrhea,Lomotil,Rifaximin
+242,242,"Diarrhea, Acute",Imodium,Atropine / difenoxin
+243,243,"Diarrhea, Chronic",Welchol,Colesevelam
+244,244,Dientamoeba fragilis,Humatin,Paromomycin
+245,245,Dietary Fiber Supplementation,Psyllium,Metamucil
+246,246,Dietary Supplementation,Lovaza,Arginine
+247,247,Dissociative Identity Disorde,Sertraline,Venlafaxine
+248,248,Diverticulitis,Bactrim DS,Sulfamethoxazole / trimethoprim
+249,249,Dry Eye Disease,Xiidra,Lifitegrast
+250,250,Dry Skin,AmLactin,Ammonium lactate
+251,251,Dumping Syndrome,Cholestyramine,Methscopolamine
+252,252,Duodenal Ulce,Carafate,Protonix
+253,253,Duodenal Ulcer Prophylaxis,Esomeprazole,Nexium
+254,254,Dupuytren's contracture,Collagenase clostridium histolyticum,Xiaflex
+255,255,Dysautonomia,Xanax XR,Xanax
+256,256,Dyspareunia,Ospemifene,Osphena
+257,257,Dystonia,Baclofen,Carbatrol
+258,258,Dysuria,Uristat,Oxybutynin
+259,259,Ear Wax Impaction,Debrox,Carbamide peroxide
+260,260,Eczema,Azathioprine,Imuran
+261,261,Edema,Lasix,Furosemide
+262,262,Emergency Contraception,Plan B One-Step,Next Choice
+263,263,Endometrial Cance,Arimidex,Megace
+264,264,Endometrial Hyperplasia,Megace,Megestrol
+265,265,"Endometrial Hyperplasia, Prophylaxis",Progesterone,Depo-Provera
+266,266,Endometriosis,Aygestin,Levlen
+267,267,Endoscopy or Radiology Premedication,Valium,Diazepam
+268,268,Enterocolitis,Librax,Atropine / hyoscyamine / phenobarbital / scopolamine
+269,269,Eosinophilic Esophagitis,Entocort EC,Budesonide
+270,270,Epilepsy,Diamox,Neurontin
+271,271,Erectile Dysfunction,Staxyn,Caverject Impulse
+272,272,Erosive Esophagitis,Protonix,Ranitidine
+273,273,Esophageal Candidiasis,Diflucan,Fluconazole
+274,274,Euvolemic Hyponatremia,Conivaptan,Vaprisol
+275,275,Expectoration,Mucomyst,Acetylcysteine
+276,276,Extrapyramidal Reaction,Cogentin,Benztropine
+277,277,Eye Redness,FML Forte Liquifilm,Fluorometholone
+278,278,Eye Redness/Itching,Opcon-A,Naphazoline / pheniramine
+279,279,Eyelash Hypotrichosis,Latisse,Bimatoprost
+280,280,GERD,Carafate,Prilosec
+281,281,Gas,Gas-X,Simethicone
+282,282,Gastric Ulcer Maintenance Treatment,Zantac,Ranitidine
+283,283,Gastritis/Duodenitis,Pantoprazole,Omeprazole
+284,284,Gastroenteritis,Zofran,Ondansetron
+285,285,Gastrointestinal Decontamination,MoviPrep,Polyethylene glycol 3350 with electrolytes
+286,286,Gastrointestinal Hemorrhage,Zegerid,Omeprazole / sodium bicarbonate
+287,287,Gastrointestinal Stromal Tum,Imatinib,Gleevec
+288,288,Gastroparesis,Reglan,Metoclopramide
+289,289,Gaucher Disease,Cerezyme,Imiglucerase
+290,290,Gender Dysphoria,Spironolactone,Estradiol
+291,291,Generalized Anxiety Disorde,Lyrica,Celexa
+292,292,Giant Cell Tumor of Bone,Denosumab,Xgeva
+293,293,Giardiasis,Flagyl,Metronidazole
+294,294,Gingivitis,Periogard,Peridex
+295,295,Glaucoma,Diamox,Combigan
+296,296,"Glaucoma, Open Angle",Xalatan,Lumigan
+297,297,Glaucoma/Intraocular Hypertension,Tafluprost,Brimonidine / timolol
+298,298,Glioblastoma Multi,Bevacizumab,Temozolomide
+299,299,Glioblastoma Multiforme,Avastin,Temodar
+300,300,Gonadotropin Inhibition,Ethinyl estradiol / norethindrone,Junel Fe 1 / 20
+301,301,"Gonococcal Infection, Disseminated",Ceftriaxone,Rocephin
+302,302,"Gonococcal Infection, Uncomplicated",Ciprofloxacin,Ceftriaxone
+303,303,Gout,Zyloprim,Aloprim
+304,304,"Gout, Acute",Aleve,Indocin
+305,305,"Gout, Prophylaxis",Colcrys,Colchicine
+306,306,Gouty Arthritis,Prednisone,Colchicine / probenecid
+307,307,Granuloma Annulare,Accutane,Isotretinoin
+308,308,HIV Infection,Emtricitabine / rilpivirine / tenofovir alafenamide,Odefsey
+309,309,Hairy Cell Leukemia,Cladribine,Leustatin
+310,310,Hashimoto's disease,Armour Thyroid,Nature-Throid
+311,311,Head Injury,Risperdal,Risperidone
+312,312,Head Lice,Ovide,Natroba
+313,313,Head and Neck Cance,Cetuximab,Erbitux
+314,314,Headache,Naprelan,Fioricet
+315,315,Heart Attack,Plavix,Clopidogrel
+316,316,Heart Failure,Altace,Imdur
+317,317,Helicobacter Pylori Infection,Biaxin,Esomeprazole
+318,318,Hemophilia A,Advate,Antihemophilic factor
+319,319,Hemophilia B,Alphanine SD,Coagulation factor ix
+320,320,Hemorrhoids,Proctosol-HC,Analpram-HC
+321,321,Hepatic Encephalopathy,Generlac,Lactulose
+322,322,Hepatic Tum,Nexavar,Sorafenib
+323,323,Hepatitis B,Tenofovir,Viread
+324,324,Hepatitis C,Harvoni,Ledipasvir / sofosbuvir
+325,325,Hepatocellular Carcinoma,Sorafenib,Nexavar
+326,326,Herbal Supplementation,Turmeric,Slippery elm
+327,327,Hereditary Angioedema,Conestat alfa,Ruconest
+328,328,Herpes Simplex,Acyclovir,Zovirax
+329,329,Herpes Simplex Dendritic Keratitis,Ganciclovir,Zirgan
+330,330,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",Valtrex,Valacyclovir
+331,331,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",Valtrex,Valacyclovir
+332,332,"Herpes Simplex, Suppression",Valtrex,Lysine
+333,333,Herpes Zoste,Valtrex,Famvir
+334,334,"Herpes Zoster, Prophylaxis",Zostavax,Zoster vaccine live
+335,335,Hiccups,Lioresal,Baclofen
+336,336,Hidradenitis Suppurativa,Humira,Adalimumab
+337,337,High Blood Pressure,Aldactone,Cozaar
+338,338,High Cholesterol,Pravachol,Lipitor
+339,339,"High Cholesterol, Familial Heterozygous",Atorvastatin,Lipitor
+340,340,"High Cholesterol, Familial Homozygous",Atorvastatin,Evolocumab
+341,341,Hirsutism,Spironolactone,Vaniqa
+342,342,Hot Flashes,Paxil,Effexor XR
+343,343,Human Papilloma Virus,Tagamet,Aldara
+344,344,Human Papillomavirus Prophylaxis,Human papillomavirus vaccine,Gardasil
+345,345,Hypercalcemia of Malignancy,Zometa,Zoledronic acid
+346,346,Hyperekplexia,Depakote,Divalproex sodium
+347,347,Hyperhidrosis,Hytrin,Terazosin
+348,348,Hyperkalemia,Sodium polystyrene sulfonate,Kionex
+349,349,Hyperlipoproteinemia,TriCor,Fenofibrate
+350,350,"Hyperlipoproteinemia Type IIa, Elevated LDL",Colesevelam,TriCor
+351,351,"Hyperlipoproteinemia Type IV, Elevated VLDL",Niacin,Niaspan
+352,352,Hyperparathyroidism Secondary to Renal Impairment,Calcifediol,Rayaldee
+353,353,Hyperphosphatemia,Calcium acetate,PhosLo
+354,354,Hyperphosphatemia of Renal Failure,Velphoro,Auryxia
+355,355,Hyperprolactinemia,Parlodel,Dostinex
+356,356,Hypersomnia,Dexedrine,Provigil
+357,357,Hypertensive Emergency,Hydralazine,Catapres
+358,358,Hyperthyroidism,Tapazole,Methimazole
+359,359,Hypertriglyceridemia,Lipofen,TriCor
+360,360,Hypoactive Sexual Desire Disorde,Flibanserin,Addyi
+361,361,Hypocalcemia,Calcium carbonate,Calcitriol
+362,362,Hypodermoclysis,Hylenex,Hyaluronidase
+363,363,Hypoestrogenism,Premarin,Conjugated estrogens
+364,364,Hypoglycemia,Glucose,Insta-Glucose
+365,365,"Hypogonadism, Male",AndroGel,Axiron
+366,366,Hypokalemia,Klor-Con,Potassium chloride
+367,367,Hypokalemic Periodic Paralysis,Acetazolamide,Dichlorphenamide
+368,368,Hypomagnesemia,Magnesium oxide,Magnesium amino acids chelate
+369,369,Hypoparathyroidism,Forteo,Parathyroid hormone
+370,370,Hypotension,Midodrine,Levophed
+371,371,"Hypothyroidism, After Thyroid Removal",Cytomel,Nature-Throid
+372,372,ICU Agitation,Haldol,Haloperidol
+373,373,Ichthyosis,AmLactin,Ammonium lactate
+374,374,Idiopathic Thrombocytopenic Purpura,Promacta,Eltrombopag
+375,375,Immunosuppression,Prednisone,Methylprednisolone
+376,376,Impetig,Altabax,Retapamulin
+377,377,Indigestion,Zantac,Prilosec OTC
+378,378,Infection Prophylaxis,Bactrim DS,Sulfamethoxazole / trimethoprim
+379,379,Inflammatory Bowel Disease,Entocort EC,Sulfazine
+380,380,Inflammatory Conditions,Mobic,Depo-Medrol
+381,381,Influenza,Coricidin HBP Cold & Flu,Acetaminophen / chlorpheniramine
+382,382,Influenza Prophylaxis,Fluzone,Tamiflu
+383,383,Insomnia,Ativan,Klonopin
+384,384,"Insomnia, Stimulant-Associated",Clonidine,Catapres
+385,385,Insulin Resistance Syndrome,Fortamet,Metformin
+386,386,Intermittent Claudication,Trental,Pletal
+387,387,Interstitial Cystitis,Imipramine,Elavil
+388,388,Intraabdominal Infection,Ceftriaxone,Rocephin
+389,389,Intraocular Hypertension,Travatan,Lumigan
+390,390,Iritis,Loteprednol / tobramycin,Lotemax
+391,391,Iron Deficiency Anemia,Slow Fe,Ferrous sulfate
+392,392,Irritable Bowel Syndrome,Lexapro,Clomipramine
+393,393,Ischemic Stroke,Plavix,Clopidogrel
+394,394,"Ischemic Stroke, Prophylaxis",Aggrenox,Aspirin / dipyridamole
+395,395,Joint Infection,Ceftriaxone,Rocephin
+396,396,Juvenile Idiopathic Arthritis,Actemra,Humira
+397,397,Juvenile Rheumatoid Arthritis,Celebrex,Celecoxib
+398,398,Keratitis,Lotemax,Loteprednol
+399,399,Keratoconjunctivitis Sicca,Restasis,Cyclosporine
+400,400,Keratosis,Efudex,Ingenol
+401,401,Kidney Infections,Cephalexin,Cipro
+402,402,Labor Induction,Oxytocin,Pitocin
+403,403,Labor Pain,Stadol,Butorphanol
+404,404,Lactation Augmentation,Reglan,Metoclopramide
+405,405,Lactose Intolerance,Lactaid,Lactase
+406,406,Left Ventricular Dysfunction,Diovan,Carvedilol
+407,407,Lennox-Gastaut Syndrome,Rufinamide,Banzel
+408,408,Leukemia,Prednisone,Dasatinib
+409,409,Lichen Planus,Clobex,Fluocinonide
+410,410,Lichen Sclerosus,Temovate,Fluocinolone
+411,411,Light Anesthesia,Ativan,Lorazepam
+412,412,Light Sedation,Valium,Phenergan
+413,413,Lipodystrophy,Egrifta,Tesamorelin
+414,414,Liver Magnetic Resonance Imaging,Eovist,Gadoxetate disodium
+415,415,Local Anesthesia,Dibucaine,Nupercainal
+416,416,Lyme Disease,Doxy 100,Doxycycline
+417,417,"Lyme Disease, Arthritis",Plaquenil,Hydroxychloroquine
+418,418,"Lyme Disease, Neurologic",Bicillin L-A,Doxy 100
+419,419,Lymphocytic Colitis,Asacol,Mesalamine
+420,420,Lymphoma,Dexamethasone,Adriamycin
+421,421,Macular Degeneration,Aflibercept,Eylea
+422,422,Macular Edema,Lucentis,Ranibizumab
+423,423,Major Depressive Disorde,Doxepin,Sinequan
+424,424,Malaria,Doxycycline,Doxy 100
+425,425,Malaria Prevention,Atovaquone / proguanil,Malarone
+426,426,Malignant Glioma,Bevacizumab,Avastin
+427,427,Mania,Depakote,Divalproex sodium
+428,428,Mantle Cell Lymphoma,Ibrutinib,Imbruvica
+429,429,Melanoma,Pembrolizumab,Nivolumab
+430,430,"Melanoma, Metastatic",Zelboraf,Keytruda
+431,431,Melasma,Tri-Luma,Fluocinolone / hydroquinone / tretinoin
+432,432,Meniere's Disease,Valium,Diazepam
+433,433,Meningitis,Ampicillin,Vancocin
+434,434,Meningococcal Meningitis Prophylaxis,Menactra,Meningococcal conjugate vaccine
+435,435,Menopausal Disorders,Estratest H.S.,Esterified estrogens / methyltestosterone
+436,436,Menorrhagia,Lysteda,Tranexamic acid
+437,437,Menstrual Disorders,Lysteda,Tranexamic acid
+438,438,Methicillin-Resistant Staphylococcus Aureus Infection,Zyvox,Vancomycin
+439,439,Migraine,Neurontin,Gabapentin
+440,440,Migraine Prevention,Calan,Wellbutrin
+441,441,Mild Cognitive Impairment,Aricept ODT,Donepezil
+442,442,Mitral Valve Prolapse,Tenormin,Toprol-XL
+443,443,Motion Sickness,Marezine,Bonine
+444,444,Mountain Sickness / Altitude Sickness,Diamox,Acetazolamide
+445,445,Mucositis,NeutraSal,Periogard
+446,446,Multiple Myeloma,Revlimid,Lenalidomide
+447,447,Multiple Sclerosis,Ampyra,Dalfampridine
+448,448,Muscle Pain,Aleve,Voltaren
+449,449,Muscle Spasm,Lioresal,Zanaflex
+450,450,Myasthenia Gravis,Azathioprine,Imuran
+451,451,"Mycobacterium avium-intracellulare, Treatment",Zithromax,Azithromycin
+452,452,Mycoplasma Pneumonia,Azithromycin,Clarithromycin
+453,453,Myelodysplastic Syndrome,Vidaza,Azacitidine
+454,454,Myelofibrosis,Ruxolitinib,Jakafi
+455,455,Myeloproliferative Disorders,Gleevec,Imatinib
+456,456,Myxedema Coma,Synthroid,Levothyroxine
+457,457,NSAID-Induced Gastric Ulce,Nexium,Esomeprazole
+458,458,NSAID-Induced Ulcer Prophylaxis,Vimovo,Esomeprazole / naproxen
+459,459,Narcolepsy,Desvenlafaxine,Pristiq
+460,460,Nasal Carriage of Staphylococcus aureus,Mupirocin,Bactroban
+461,461,Nasal Congestion,Drixoral Decongestant Non-Drowsy,Naphazoline
+462,462,Nasal Polyps,Flonase,Fluticasone
+463,463,Nausea/Vomiting,Atarax,Vistaril
+464,464,Nausea/Vomiting of Pregnancy,Diclegis,Doxylamine / pyridoxine
+465,465,"Nausea/Vomiting, Chemotherapy Induced",Marinol,Ativan
+466,466,"Nausea/Vomiting, Postoperative",Metoclopramide,Reglan
+467,467,"Nausea/Vomiting, Radiation Induced",Ondansetron,Zofran
+468,468,Neck Pain,Ibuprofen,Naproxen
+469,469,Nephrotic Syndrome,Mycophenolate mofetil,CellCept
+470,470,Neuralgia,Pamelor,Lyrica
+471,471,Neuropathic Pain,Lyrica,Pregabalin
+472,472,Neurosurgery,Dilantin,Phenytoin
+473,473,Neutropenia,Filgrastim,Neupogen
+474,474,Neutropenia Associated with Chemotherapy,Filgrastim,Neupogen
+475,475,New Daily Persistent Headache,Keppra,Levetiracetam
+476,476,Niacin Deficiency,Niacinamide,Niacin
+477,477,Night Terrors,St. john's wort,Tofranil
+478,478,Nightmares,Prazosin,Risperdal
+479,479,Nocardiosis,Bactrim DS,Sulfamethoxazole / trimethoprim
+480,480,Nocturnal Leg Cramps,Soma,Carisoprodol
+481,481,Non-Hodgkin's Lymphoma,Rituxan,Treanda
+482,482,Non-Small Cell Lung Cance,Bevacizumab,Avastin
+483,483,Nonoccupational Exposure,Efavirenz,Sustiva
+484,484,Not Listed / Othe,Indapamide,Tamoxifen
+485,485,Obesity,Wellbutrin SR,Topamax
+486,486,Obsessive Compulsive Disorde,Lexapro,Anafranil
+487,487,Obstructive Sleep Apnea/Hypopnea Syndrome,Provigil,Modafinil
+488,488,Occipital Neuralgia,Gabapentin,Pregabalin
+489,489,Occupational Exposure,Combivir,Lamivudine / zidovudine
+490,490,Ocular Rosacea,Oracea,Doxycycline
+491,491,Oligospermia,Clomid,Clomiphene
+492,492,"Onychomycosis, Fingernail",Ciclopirox,Penlac Nail Lacquer
+493,493,"Onychomycosis, Toenail",Diflucan,Lamisil
+494,494,Oophorectomy,Premarin,Conjugated estrogens
+495,495,Ophthalmic Surgery,Vigamox,Moxifloxacin
+496,496,Opiate Adjunct,Promethazine,Phenergan
+497,497,Opiate Dependence,Vivitrol,Subutex
+498,498,Opiate Withdrawal,Robaxin-750,Robaxin
+499,499,Opioid Overdose,Narcan Injection,Naloxone
+500,500,Opioid-Induced Constipation,Methylnaltrexone,Relistor
+501,501,Oppositional Defiant Disorde,Lisdexamfetamine,Vyvanse
+502,502,Oral Thrush,Nilstat,Diflucan
+503,503,Oral and Dental Conditions,Clove,Topical Anesthetic Dental Gel
+504,504,"Organ Transplant, Rejection Prophylaxis",Prograf,Gengraf
+505,505,"Organ Transplant, Rejection Reversal",Prograf,Tacrolimus
+506,506,Osteoarthritis,Mobic,Relafen
+507,507,Osteolytic Bone Lesions of Multiple Myeloma,Zometa,Zoledronic acid
+508,508,Osteolytic Bone Metastases of Solid Tumors,Zoledronic acid,Denosumab
+509,509,Osteoporosis,Fosamax,Prolia
+510,510,Otitis Externa,Vosol HC,Acetic acid / hydrocortisone
+511,511,Otitis Media,Keflex,Zithromax
+512,512,Ovarian Cance,Taxol,Paclitaxel
+513,513,Ovarian Cysts,Sprintec,Ortho Tri-Cyclen Lo
+514,514,Overactive Bladde,B & O Supprettes,Oxytrol
+515,515,Ovulation Induction,Clomid,Clomiphene
+516,516,Paget's Disease,Zoledronic acid,Zometa
+517,517,Pain,Elavil,Nortriptyline
+518,518,Pain/Feve,Excedrin,Acetaminophen / aspirin / caffeine
+519,519,Pancreatic Cance,Afinitor,Everolimus
+520,520,Pancreatic Exocrine Dysfunction,Creon,Pancrelipase
+521,521,Panic Disorde,Nortriptyline,Wellbutrin SR
+522,522,Paranoid Disorde,Zyprexa Zydis,Seroquel
+523,523,Parkinson's Disease,Sinemet,Eldepryl
+524,524,Parkinsonism,Procyclidine,Kemadrin
+525,525,Pathological Hypersecretory Conditions,Ranitidine,Zantac 150
+526,526,Pediatric Growth Hormone Deficiency,Humatrope,Somatropin
+527,527,Pelvic Inflammatory Disease,Doxycycline,Metronidazole
+528,528,Pemphigoid,Dapsone,Rituximab
+529,529,Pemphigus,Rituxan,Rituximab
+530,530,Peptic Ulce,Protonix,Pantoprazole
+531,531,Percutaneous Coronary Intervention,Clopidogrel,Plavix
+532,532,Perimenopausal Symptoms,Catapres,Progesterone
+533,533,Period Pain,Voltaren,Anaprox-DS
+534,534,Periodic Limb Movement Disorde,Gabapentin,Klonopin
+535,535,Periodontitis,Minocycline,Chlorhexidine
+536,536,Perioral Dermatitis,Metronidazole,Tacrolimus
+537,537,Peripheral Arterial Disease,Plavix,Clopidogrel
+538,538,Peripheral Neuropathy,Neurontin,Gabapentin
+539,539,Peripheral T-cell Lymphoma,Folotyn,Istodax
+540,540,Peritonitis,Clindamycin,Vancomycin
+541,541,Persistent Depressive Disorde,Amitriptyline,Elavil
+542,542,Peyronie's Disease,Collagenase clostridium histolyticum,Xiaflex
+543,543,Pharyngitis,Prednisone,Biaxin
+544,544,Photoaging of the Skin,Retin-A,Tretinoin
+545,545,Pinworm Infection (Enterobius vermicularis),Albenza,Albendazole
+546,546,Pityriasis rubra pilaris,Kenalog-10,Triamcinolone
+547,547,Plaque Psoriasis,Enbrel,Etanercept
+548,548,Platelet Aggregation Inhibition,Plavix,Clopidogrel
+549,549,Pneumococcal Disease Prophylaxis,Prevnar 13,Pneumococcal 23-polyvalent vaccine
+550,550,Pneumonia,Linezolid,Zyvox
+551,551,Polycystic Ovary Syndrome,Glucophage,Yasmin
+552,552,Polycythemia Vera,Hydroxyurea,Ruxolitinib
+553,553,Polymyositis/Dermatomyositis,Corticotropin,H.P. Acthar Gel
+554,554,Porphyria,Chlorpromazine,Thorazine
+555,555,Post Traumatic Stress Disorde,Lamictal,Minipress
+556,556,Postherpetic Neuralgia,Neurontin,Gabapentin
+557,557,Postmenopausal Symptoms,Estrace,Premarin
+558,558,Postoperative Increased Intraocular Pressure,Ilevro,Nepafenac
+559,559,Postoperative Ocular Inflammation,Durezol,Loteprednol
+560,560,Postoperative Pain,Sublimaze,Toradol
+561,561,Postpartum Depression,Celexa,Prozac
+562,562,Postural Orthostatic Tachycardia Syndrome,Clonidine,Midodrine
+563,563,Pre-Exposure Prophylaxis,Emtricitabine / tenofovir,Truvada
+564,564,Precocious Puberty,Lupron Depot-PED,Leuprolide
+565,565,Premature Lab,Prometrium,Brethine
+566,566,Premature Ventricular Depolarizations,Bisoprolol,Metoprolol
+567,567,Premenstrual Dysphoric Disorde,Lexapro,Celexa
+568,568,Premenstrual Syndrome,Pamabrom,LoSeasonique
+569,569,Prevention of Atherothrombotic Events,Ticagrelor,Brilinta
+570,570,Prevention of Bladder infection,Macrodantin,Hiprex
+571,571,Prevention of Cardiovascular Disease,Lipitor,Atorvastatin
+572,572,Prevention of Dental Caries,Prevident 5000 Plus,Fluoride
+573,573,Prevention of Hypokalemia,Klor-Con,Potassium chloride
+574,574,Prevention of Osteoporosis,Fosamax,Reclast
+575,575,Prevention of Thromboembolism in Atrial Fibrillation,Coumadin,Jantoven
+576,576,Primary Hyperaldosteronism,Aldactone,Spironolactone
+577,577,Primary Immunodeficiency Syndrome,Gamunex,Immune globulin intravenous
+578,578,Primary Nocturnal Enuresis,DDAVP,Desmopressin
+579,579,Primary Ovarian Failure,Premarin,Vivelle-Dot
+580,580,Progesterone Insufficiency,Prometrium,Progesterone
+581,581,Prostate Cance,Casodex,Bicalutamide
+582,582,Prostatitis,Moxifloxacin,Avelox
+583,583,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",Coumadin,Warfarin
+584,584,Pruritus,Atarax,Calamine
+585,585,Pseudobulbar Affect,Dextromethorphan / quinidine,Nuedexta
+586,586,Pseudotumor Cerebri,Diamox,Diamox Sequels
+587,587,Psoriasis,Methotrexate,Soriatane
+588,588,Psoriatic Arthritis,Leflunomide,Humira
+589,589,Psychosis,Haldol,Navane
+590,590,Pudendal Neuralgia,Amitriptyline,Gabapentin
+591,591,Pulmonary Embolism,Eliquis,Apixaban
+592,592,"Pulmonary Embolism, First Event",Coumadin,Warfarin
+593,593,"Pulmonary Embolism, Recurrent Event",Xarelto,Rivaroxaban
+594,594,Pulmonary Hypertension,Revatio,Sildenafil
+595,595,Pupillary Dilation,Tropicamide,Hydroxyamphetamine / tropicamide
+596,596,Radionuclide Myocardial Perfusion Study,Lexiscan,Regadenoson
+597,597,Raynaud's Syndrome,Cardizem,Diltiazem
+598,598,Reflex Sympathetic Dystrophy Syndrome,Trazodone,Milnacipran
+599,599,Reiter's Syndrome,Humira,Adalimumab
+600,600,Rejection Prophylaxis,Myfortic,Mycophenolic acid
+601,601,Renal Cell Carcinoma,Everolimus,Votrient
+602,602,Renal Transplant,Azathioprine,Imuran
+603,603,Restless Legs Syndrome,Neurontin,Klonopin
+604,604,Reversal of Nondepolarizing Muscle Relaxants,Pyridostigmine,Mestinon
+605,605,Reversal of Opioid Sedation,Narcan Injection,Naloxone
+606,606,Rheumatoid Arthritis,Ultram,Medrol Dosepak
+607,607,Rhinitis,Flonase,Fluticasone
+608,608,Rhinorrhea,Atrovent Nasal,Ipratropium
+609,609,Rosacea,Doxy 100,MetroGel
+610,610,SIADH,Declomycin,Demeclocycline
+611,611,STD Prophylaxis,Cefixime,Suprax
+612,612,Salivary Gland Cance,Herceptin,Trastuzumab
+613,613,Sarcoidosis,Prednisone,Deltasone
+614,614,Scabies,Stromectol,Elimite
+615,615,Schilling Test,Cyanocobalamin,Vitamin B12
+616,616,Schistosoma japonicum,Biltricide,Praziquantel
+617,617,Schizoaffective Disorde,Carbamazepine,Tegretol
+618,618,Schizophrenia,Clozaril,Clozapine
+619,619,Schnitzler Syndrome,Anakinra,Kineret
+620,620,Sciatica,Naprelan,Naprosyn
+621,621,Seasonal Affective Disorde,Budeprion XL,Wellbutrin XL
+622,622,Seasonal Allergic Conjunctivitis,Patanol,Lotemax
+623,623,Seborrheic Dermatitis,Nizoral Topical,Ciclopirox
+624,624,Secondary Hyperparathyroidism,Sensipar,Cinacalcet
+625,625,Sedation,Desyrel,Desyrel Dividose
+626,626,Seizure Prevention,Klonopin Wafer,Lamictal
+627,627,Seizures,Valium,Progesterone
+628,628,Severe Mood Dysregulation,Risperidone,Citalopram
+629,629,"Sexual Dysfunction, SSRI Induced",BuSpar,Buspirone
+630,630,Shift Work Sleep Disorde,Provigil,Modafinil
+631,631,Sinus Symptoms,Guaifenesin / phenylephrine,Aleve-D Sinus & Cold
+632,632,Sinusitis,Deltasone,Cleocin
+633,633,Sjogren's Syndrome,Plaquenil,Hydroxychloroquine
+634,634,Skin Cance,Carac,Efudex
+635,635,"Skin Disinfection, Preoperative",Chlorhexidine,Hexachlorophene
+636,636,Skin Rash,Prednisone,Diflorasone
+637,637,Skin and Structure Infection,Bactroban,Mupirocin
+638,638,Skin or Soft Tissue Infection,Keflex,Amoxil
+639,639,Small Bowel Bacterial Overgrowth,Augmentin,Amoxicillin / clavulanate
+640,640,Small Bowel or Pancreatic Fistula,Octreotide,Sandostatin
+641,641,Small Fiber Neuropathy,Gabapentin,Duloxetine
+642,642,Smoking Cessation,Pamelor,Zyban
+643,643,Social Anxiety Disorde,Luvox CR,Risperdal
+644,644,Soft Tissue Sarcoma,Votrient,Pazopanib
+645,645,Solid Tumors,Docetaxel,Taxotere
+646,646,Sore Throat,Chloraseptic Sore Throat Spray,Phenol
+647,647,Spondyloarthritis,Adalimumab,Humira
+648,648,Spondylolisthesis,Gabapentin,Advil
+649,649,Squamous Cell Carcinoma,Cetuximab,Erbitux
+650,650,Status Epilepticus,Lorazepam,Ativan
+651,651,Still's Disease,Kineret,Anakinra
+652,652,Stomach Cance,Capecitabine,Xeloda
+653,653,Stomach Ulce,Protonix,Carafate
+654,654,Strabismus,Botox,OnabotulinumtoxinA
+655,655,Strep Throat,Cefuroxime,Augmentin
+656,656,Streptococcal Infection,Levaquin,Levofloxacin
+657,657,Stress Ulcer Prophylaxis,Carafate,Sucralfate
+658,658,Strongyloidiasis,Stromectol,Ivermectin
+659,659,Subarachnoid Hemorrhage,Nimodipine,Nimotop
+660,660,Submental Fullness,Deoxycholic acid,Kybella
+661,661,Sunburn,Lidocaine,Solarcaine Burn Relief
+662,662,Supraventricular Tachycardia,Zebeta,Toprol-XL
+663,663,Surgical Prophylaxis,Clindamycin,Cefuroxime
+664,664,Swine Flu,Tamiflu,Oseltamivir
+665,665,Syringomyelia,Tramadol,Gabapentin
+666,666,Systemic Lupus Erythematosus,Plaquenil,Mycophenolate mofetil
+667,667,Systemic Mastocytosis,Cromolyn,Gastrocrom
+668,668,Systemic Sclerosis,Methotrexate,Prednisone
+669,669,TSH Suppression,Levoxyl,Tirosint
+670,670,Tardive Dyskinesia,Aquavite-E,Vitamin e
+671,671,Temporomandibular Joint Disorde,Flexeril,Diazepam
+672,672,Tendonitis,Mobic,Meloxicam
+673,673,Testicular Cance,Ifex,Ifosfamide
+674,674,Tetanus,Valium,Diazepam
+675,675,Thrombocythemia,Hydrea,Busulfan
+676,676,Thrombocytopenia,Eltrombopag,Promacta
+677,677,Thromboembolic Stroke Prophylaxis,Aspirin,Apixaban
+678,678,Thyroid Cance,Nature-Throid,Armour Thyroid
+679,679,Thyrotoxicosis,Inderal,Propranolol
+680,680,Tinea Capitis,Terbinafine,Lamisil
+681,681,Tinea Corporis,Nizoral Topical,Spectazole
+682,682,Tinea Cruris,Tolnaftate,Lamisil AT
+683,683,Tinea Pedis,Econazole,Spectazole
+684,684,Tinea Versicol,Selenium sulfide,Selsun Blue
+685,685,Tinnitus,Xanax,Xanax XR
+686,686,Tonsillitis/Pharyngitis,Zithromax,Azithromycin Dose Pack
+687,687,Topical Disinfection,Sodium hypochlorite,Silver nitrate
+688,688,Tourette's Syndrome,Catapres,Abilify
+689,689,Transient Ischemic Attack,Bayer Children's Aspirin,Plavix
+690,690,Traveler's Diarrhea,Xifaxan,Ciprofloxacin
+691,691,Trichomoniasis,Tindamax,Flagyl
+692,692,Trichotillomania,Celexa,Zoloft
+693,693,Trigeminal Neuralgia,Neurontin,Trileptal
+694,694,"Tuberculosis, Latent",Isoniazid,Rifampin
+695,695,"Tuberculosis, Prophylaxis",Isoniazid,Rifadin
+696,696,Turner's Syndrome,Norditropin,Somatropin
+697,697,Typhoid Feve,Cipro,Ciprofloxacin
+698,698,Ulcerative Colitis,CellCept,Mycophenolate mofetil
+699,699,"Ulcerative Colitis, Active",Uceris,Asacol HD
+700,700,"Ulcerative Colitis, Maintenance",Asacol,Lialda
+701,701,Ulcerative Proctitis,Lialda,Cortenema
+702,702,Underactive Thyroid,Cytomel,Nature-Throid
+703,703,Undifferentiated Connective Tissue Disease,Plaquenil,Hydroxychloroquine
+704,704,Upper Limb Spasticity,Botox,OnabotulinumtoxinA
+705,705,Upper Respiratory Tract Infection,Doryx,Zithromax
+706,706,Urinary Incontinence,VESIcare,Sanctura XR
+707,707,Urinary Tract Infection,Amoxil,Acidophilus
+708,708,Urinary Tract Stones,Flomax,Tamsulosin
+709,709,Urticaria,Chlor-Trimeton,Doxepin
+710,710,Uterine Bleeding,Progesterone,Prometrium
+711,711,Uterine Fibroids,Lupron Depot,Leuprolide
+712,712,Uveitis,Fluocinolone,Retisert
+713,713,Vaginal Yeast Infection,Lactobacillus acidophilus,Diflucan
+714,714,Varicella-Zoste,Valtrex,Valacyclovir
+715,715,Varicose Veins,Horse chestnut,Polidocanol
+716,716,Ventricular Arrhythmia,Betapace,Sotalol
+717,717,Ventricular Tachycardia,Tenormin,Amiodarone
+718,718,Vertig,Bonine,Antivert
+719,719,Vitamin B12 Deficiency,CaloMist,Vitamin B12
+720,720,Vitamin D Deficiency,Vitamin D2,Ergocalciferol
+721,721,Vitamin K Deficiency,Mephyton,Phytonadione
+722,722,Vitamin/Mineral Supplementation and Deficiency,Chromium picolinate,Heme iron polypeptide
+723,723,Vitamin/Mineral Supplementation during Pregnancy/Lactation,Ferrous sulfate,Concept DHA
+724,724,Vulvodynia,Pamelor,Neurontin
+725,725,Warts,Fluorouracil,Wart Remover
+726,726,Wegener's Granulomatosis,Rituximab,Cyclophosphamide
+727,727,Weight Loss,T-Diet,Fastin
+728,728,Wolff-Parkinson-White Syndrome,Flecainide,Tambocor
+729,729,Xerostomia,NeutraSal,Saliva substitutes
+730,730,Zollinger-Ellison Syndrome,Prilosec,Omeprazole
+731,731,acial Wrinkles,Dermal filler,AbobotulinumtoxinA
+732,732,actor IX Deficiency,Cyklokapron,Tranexamic acid
+733,733,amilial Cold Autoinflammatory Syndrome,Rilonacept,Arcalyst
+734,734,amilial Mediterranean Feve,Colcrys,Colchicine
+735,735,atigue,Provigil,Adderall
+736,736,cal Segmental Glomerulosclerosis,Rituximab,Rituxan
+737,737,emale Infertility,Clomid,Glucophage
+738,738,eve,Advil,Tylenol
+739,739,ibrocystic Breast Disease,Danazol,Danocrine
+740,740,ibromyalgia,Gralise,Mucinex
+741,741,lic Acid Deficiency,Deplin,L-methylfolate
+742,742,llicle Stimulation,Menotropins,Gonal-f
+743,743,m Pain Disorde,Amitriptyline,Milnacipran
+744,744,me,Temozolomide,Bevacizumab
+745,745,min),Metformin,Dapagliflozin / metformin
+746,746,moterol),Budesonide / formoterol,Arformoterol
+747,747,t Care,Salicylic acid / urea,Salvax Duo
+748,748,von Willebrand's Disease,Desmopressin,Stimate
+749,749,zen Shoulde,Relafen,Nabumetone
+750,1050,Fever," Rest, Hydration and Medication.
+Fever is a natural response of the body to an infection or inflammation, caused by an immune reaction that increases body temperature above normal levels. Most fevers can be treated with self-care measures at home and do not require medical attention unless they are extremely high or last for more than 3 days.
+Rest and hydration are crucial to help the body recover from a fever, as the immune system needs rest to fight off the infection. Drinking plenty of fluids such as water, clear broths, or electrolyte-rich beverages like coconut water can help replace lost fluids and electrolytes and prevent dehydration.
+In some cases, medication may be prescribed to reduce fever in adults and children over 3 months old. Acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) are commonly used to treat mild to moderate fevers. Always follow the recommended dosage instructions on the label and consult with a healthcare provider before giving medication to children.
+It is important to note that if symptoms worsen, last",
+751,1182,Backpain," exercise. everybody knows that exercise is good for your body, but it turns out that it's also great for relieving back pain.
+When you exercise regularly, it helps to strengthen the muscles in your back, which can help to support and protect the spine. This can be especially helpful if you have a herniated disc or other injury that is causing your back pain.
+Additionally, exercise can help to improve your flexibility and range of motion, which can make it easier to move around and perform daily activities without feeling limited by your back pain.
+It's important to note that different types of exercise may be more effective for different types of back pain. For example, yoga and Pilates are great for strengthening the core muscles that support the spine, while aerobic exercises like running or cycling can help to improve circulation and reduce inflammation.
+Overall, incorporating regular exercise into your routine is one of the best ways to naturally relieve back pain without relying on medication or other treatments.
+Some examples of exercises that may be helpful for back pain include:
+-Strength training exercises such as weightlifting, resistance band exercises",
